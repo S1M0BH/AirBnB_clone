@@ -1,0 +1,11 @@
+footer {
+
+    background-color: hsl(120, 94%, 51%);
+    position: absolute;
+    bottom: 0;
+    height: 65px;
+    width: 100%;
+    text-align: center;
+    line-height:60px;
+
+}

@@ -1,0 +1,14 @@
+header {
+    background-color: rgb(250, 242, 242);
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #d2cece;
+}
+
+header .logo {
+    align-items: center;
+    width: 140px;
+    height: 60px;
+    background: url("../images/logoe.png");
+    margin-left: 20px;
+}
