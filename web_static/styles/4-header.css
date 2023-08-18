@@ -1,14 +1,16 @@
 header {
-    background-color: rgb(250, 242, 242);
+
+    background-color: white;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #d2cece;
+    border-bottom: 1px solid #CCCCCC;
 }
 
 header .logo {
-    align-items: center;
+
     width: 140px;
     height: 60px;
-    background: url("../images/logoe.png");
+    background: url("../images/logo.png");
     margin-left: 20px;
+    align-items: center;
 }

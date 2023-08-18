@@ -1,12 +1,13 @@
 footer {
-    
+
     position: absolute;
     display: flex;
-    background-color: rgb(244, 239, 239);
+    align-items: center;
+    justify-content: center;
+    background-color: white;
     bottom: 0;
     height: 60px;
     width: 100%;
-    border-top: 1px solid #cdcaca;
-    align-items: center;
-    justify-content: center;
+    border-top: 1px solid #CCCCCC;
+
 }

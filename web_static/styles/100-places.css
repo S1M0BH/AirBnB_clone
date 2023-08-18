@@ -7,6 +7,18 @@
 .places h1 {
     font-size: 30px;
 }
+.places h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+article h2 {
+    font-size: 30px;
+    margin-top: -1px;
+    padding-left: 0%;
+}
+
 
 .places_title {
     padding-top: 30px;
@@ -33,19 +45,6 @@ article {
     padding-bottom: 30px;
     position: relative;
 }
-
-.places h2 {
-    font-size: 30px;
-    text-align: center;
-}
-
-
-article h2 {
-    font-size: 30px;
-    margin-top: -1px;
-    padding-left: 0%;
-}
-
 .article_title {
     width: 100%;
 }
@@ -77,8 +76,8 @@ article h2 {
 
 .information {
     height: 80px;
-    border-top: solid #d7d4d4 1px;
-    border-bottom: solid #d7d4d4 1px;
+    border-top: solid #DDDDDD 1px;
+    border-bottom: solid #DDDDDD 1px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -172,7 +171,7 @@ article div.amenities {
 
 article div.amenities h2 {
     font-size: 16px;
-    border-bottom: 1px solid #d7d4d4;
+    border-bottom: 1px solid #DDDDDD;
     justify-content: left;
     text-align: left;
 }
